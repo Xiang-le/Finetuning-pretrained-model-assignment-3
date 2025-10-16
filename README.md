@@ -3,6 +3,3 @@ This repository contains my approach for finetuning a DistilBERT model for the t
 
 # Dataset
 
-# Dependencies
-pandas ==
-matplotlib == 
