@@ -9,3 +9,6 @@ The dataset taken from ([https://www.kaggle.com/datasets/suchintikasarkar/sentim
 
 ## Finetuned models
 I have experimented with two methods for finetuning DistilBERT model on the mental health data. The first is a full finetuning. The second is by Low-Rank Adaptation (LORA).
+
+## Platform
+These models were trained on Google Colab using the T4GPU.
