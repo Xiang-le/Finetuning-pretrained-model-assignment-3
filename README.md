@@ -11,3 +11,7 @@ I have experimented with two methods for finetuning DistilBERT model on the ment
 
 ### Platform
 These models were trained on Google Colab using the T4GPU.
+
+### Files
+Please refer to _requirements.txt_ for the dependencies to install.
+Data preprocessing and exploratory data analysis were done under _data_preprocessing_and_EDA.ipynb_. The script for the fully-finetuned DistilBERT model can be found under _full_finetuned_DistilBERT.ipynb_. The script for the LORA finetuned DistilBERT model can be found under _LORA_finetuned_DistilBERT.ipynb_.
