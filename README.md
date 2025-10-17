@@ -1,5 +1,4 @@
-## Finetuning-pretrained-model-assignment-3
-This repository contains my approach for finetuning a DistilBERT model for the task of sentiment analysis on mental health.
+## DistilBERT model on mental health classification
 
 ### Motivation
 Mental health is an important part of an individual’s well-being, affecting how individuals think, feel and behave. Despite its importance, it is often overlooked or neglected because the symptoms are not as easily identified, unlike physical health. The first step in promoting mental wellness then, is to promote self-awareness. This project aims to finetune a DistilBERT model to build a classifier for detecting signs of mental health issues given social media or clinical text.
